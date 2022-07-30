@@ -1,4 +1,5 @@
 # Systemless Xposed Framework
+### [Click here to download!](https://github.com/luyanci/xposed/releases/tag/v1.0)
 
 ### This module is only for Android 5.0 to Android 8.1!
 
